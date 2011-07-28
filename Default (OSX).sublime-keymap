@@ -1,0 +1,8 @@
+/* Added keys to got to different groups */
+/* originally from https://github.com/brendandean/Sublime-Text-2-Configuration */
+[
+  { "keys": ["ctrl+alt+1"], "command": "focus_group", "args": { "group": 0 } },
+  { "keys": ["ctrl+alt+2"], "command": "focus_group", "args": { "group": 1 } },
+  { "keys": ["ctrl+alt+3"], "command": "focus_group", "args": { "group": 2 } },
+  { "keys": ["ctrl+alt+4"], "command": "focus_group", "args": { "group": 3 } }
+]

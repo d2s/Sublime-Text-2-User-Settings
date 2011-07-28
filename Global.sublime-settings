@@ -1,0 +1,11 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+  // Excludes
+	"folder_exclude_patterns": [".bundle", ".git", ".sass-cache", "*.esproj"],
+	"file_exclude_patterns": ["*.png", "*.gif", "*.jpg", "*.jpeg", ".DS_Store", "Gemfile.lock"],
+  // Visual style
+	"theme": "Soda Dark.sublime-theme",
+  //"show_tab_close_buttons": false,
+  "mouse_wheel_switches_tabs": false
+}
