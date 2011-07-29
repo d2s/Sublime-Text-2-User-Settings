@@ -16,7 +16,7 @@ Your mileage may vary.
 
 ## Using Git
 
-Go to your Sublime Text 2 Packages directory and clone the theme repository using the command below:
+Go to your Sublime Text 2 Packages directory and clone the settings repository using the command below:
 
     git clone git://github.com/d2s/Sublime-Text-2-User-Settings.git "User"
 
