@@ -6,5 +6,9 @@
   { "keys": ["ctrl+alt+3"], "command": "focus_group", "args": { "group": 2 } },
   { "keys": ["ctrl+alt+4"], "command": "focus_group", "args": { "group": 3 } },
   /* Had to change the console key since my keyboard is in different layout */
-  { "keys": ["ctrl+."], "command": "show_panel", "args": {"panel": "console"} }
+  { "keys": ["ctrl+."], "command": "show_panel", "args": {"panel": "console"} },
+  /* Dublicate line */
+  { "keys": ["super+alt+down"], "command": "duplicate_line" },
+  /* Set bookmark */
+  { "keys": ["super+k"], "command": "set_mark" }
 ]
