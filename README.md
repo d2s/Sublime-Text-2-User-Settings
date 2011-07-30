@@ -11,14 +11,28 @@ Your mileage may vary.
 
 - [Sublime Text 2 (beta)](http://www.sublimetext.com/2)
 - [Soda theme](https://github.com/buymeasoda/soda-theme)
+- [CoffeeScript bundle](https://github.com/jashkenas/coffee-script-tmbundle)
 
 # Installation
 
 ## Using Git
 
-Go to your Sublime Text 2 Packages directory and clone the settings repository using the command below:
+Go to your Sublime Text 2 Packages directory:
+
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+
+First install required extensions:
+
+    git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+    git clone git://github.com/jashkenas/coffee-script-tmbundle CoffeeScript
+
+
+Clone the settings repository using the command below:
 
     git clone git://github.com/d2s/Sublime-Text-2-User-Settings.git "User"
+
+
+
 
 # WARNING!
 
