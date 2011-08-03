@@ -2,7 +2,7 @@
 // when upgrading
 {
   // Excludes
-  "folder_exclude_patterns": [".bundle", ".git", ".sass-cache", "*.esproj"],
+  "folder_exclude_patterns": [".bundle", ".git", ".sass-cache", "*.esproj", "*.tiles"],
   "file_exclude_patterns": ["*.tmLanguage.cache", "*.tmPreferences.cache", "*.psd", "*.psb", "*.png", "*.gif", "*.jpg", "*.jpeg", "Gemfile.lock", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj", "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.pdf", "*.class", "*.mov", "*.mp3", "*.mp4", "*.swf", "*.xls", "*.bak", "*.backup", "*.acorn"],
   // Visual style
   "theme": "Soda Dark.sublime-theme",
