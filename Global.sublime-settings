@@ -3,7 +3,7 @@
 {
   // Excludes
   "folder_exclude_patterns": [".bundle", ".git", ".sass-cache", "*.esproj", "*.tiles"],
-  "file_exclude_patterns": ["*.tmLanguage.cache", "*.tmPreferences.cache", "*.psd", "*.psb", "*.png", "*.gif", "*.jpg", "*.jpeg", "Gemfile.lock", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj", "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.pdf", "*.class", "*.mov", "*.mp3", "*.mp4", "*.swf", "*.xls", "*.bak", "*.backup", "*.acorn", "*.license"],
+  "file_exclude_patterns": ["*.tmLanguage.cache", "*.tmPreferences.cache", "*.psd", "*.psb", "*.png", "*.gif", "*.jpg", "*.jpeg", "Gemfile.lock", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.ico", "*.obj", "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.pdf", "*.class", "*.mov", "*.mp3", "*.mp4", "*.swf", "*.xls", "*.bak", "*.backup", "*.acorn", "*.license"],
   // Visual style
   "theme": "Soda Dark.sublime-theme",
   //"show_tab_close_buttons": false,
