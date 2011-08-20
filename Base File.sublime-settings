@@ -1,32 +1,29 @@
 {
-  // Valid values are "smooth", "blink", "wide" and "solid". jahas
-  "caret_style": "smooth",
-  "color_scheme": "Packages/Color Scheme - Default/All Hallow's Eve.tmTheme",
-  "draw_white_space": "all",
-  "match_brackets_angle": true,
-  "font_face": "Consolas",
-  "font_options":
-  [
-    "subpixel_antialias"
-  ],
-  "font_size": 15,
-  "rulers":
-  [
-    120
-  ],
-  // Tab related settings
-  "tab_completion": true,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "use_tab_stops": true,
-  // EOF related settings
-  "ensure_newline_at_eof_on_save": true,
-  "trim_trailing_white_space_on_save": true,
-  // Other settings
-  "word_wrap": false,
-  "highlight_line": true,
-  "draw_minimap_border": false,
-  // gutter is the list of line numbers at the left side
-  "gutter": true
-  //"tab_completion": true
+	/* Valid values are "smooth", "blink", "wide" and "solid". */
+	"caret_style": "smooth",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"draw_minimap_border": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 15,
+	/* gutter is the list of line numbers at the left side */
+	"gutter": true,
+	"highlight_line": true,
+	"match_brackets_angle": true,
+	"rulers":
+	[
+		120
+	],
+	/* Tab related settings */
+	"tab_completion": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": false
 }
