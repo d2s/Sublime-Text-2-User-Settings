@@ -1,5 +1,4 @@
 {
-	/* Valid values are "smooth", "blink", "wide" and "solid". */
 	"caret_style": "smooth",
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"draw_minimap_border": false,
@@ -11,7 +10,6 @@
 		"subpixel_antialias"
 	],
 	"font_size": 15,
-	/* gutter is the list of line numbers at the left side */
 	"gutter": true,
 	"highlight_line": true,
 	"match_brackets_angle": true,
@@ -19,7 +17,6 @@
 	[
 		120
 	],
-	/* Tab related settings */
 	"tab_completion": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
