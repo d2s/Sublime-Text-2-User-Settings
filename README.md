@@ -30,6 +30,11 @@ First install required extensions:
 
 Read [Sublime Package Control][] page for details about how to install it and other possible extensions via the system.
 
+Suggested extensions:
+
+- [Sublime Alignment][]
+
+
 
 Clone the settings repository using the command below:
 
@@ -49,3 +54,4 @@ It's probably better to make copy of these to another location and just copy the
 
 [d2s]:  https://github.com/d2s  "d2s's Profile - GitHub"
 [Sublime Package Control]:  http://wbond.net/sublime_packages/package_control "Extension management to ST2"
+[Sublime Alignment]: http://wbond.net/sublime_packages/alignment  "a Sublime Text 2 Package by wbond"
