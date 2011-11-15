@@ -23,5 +23,6 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 122
+	"wrap_width": 122,
+	"fallback_encoding": "Western (Windows 1252)"
 }
