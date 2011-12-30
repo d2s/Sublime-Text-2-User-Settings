@@ -31,7 +31,7 @@ First install required extensions:
 Read [Sublime Package Control][] page for details about how to install it and other possible extensions via the system.
 
 
-## Suggested extensions:
+### Suggested extensions:
 
 - [Sublime Alignment][]
 - [Sublime Terminal][]
