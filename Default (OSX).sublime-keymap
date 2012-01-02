@@ -10,5 +10,7 @@
   /* Dublicate line */
   { "keys": ["super+alt+down"], "command": "duplicate_line" },
   /* Set bookmark */
-  { "keys": ["super+k"], "command": "set_mark" }
+  { "keys": ["super+k"], "command": "set_mark" },
+  /* Goto Documentation */
+  { "keys": ["super+shift+h"], "command": "goto_documentation" }
 ]

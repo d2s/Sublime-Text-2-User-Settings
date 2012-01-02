@@ -1,11 +1,60 @@
-// Place user-specific overrides in this file, to ensure they're preserved
-// when upgrading
 {
-  // Excludes
-  "folder_exclude_patterns": [".bundle", ".git", ".sass-cache", "*.esproj", "*.tiles"],
-  "file_exclude_patterns": ["*.tmLanguage.cache", "*.tmPreferences.cache", "*.psd", "*.psb", "*.png", "*.gif", "*.jpg", "*.jpeg", "Gemfile.lock", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.ico", "*.obj", "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.pdf", "*.class", "*.mov", "*.mp3", "*.mp4", "*.swf", "*.xls", "*.bak", "*.backup", "*.acorn", "*.license", "*.zargo*"],
-  // Visual style
-  "theme": "Soda Dark.sublime-theme",
-  //"show_tab_close_buttons": false,
-  "mouse_wheel_switches_tabs": false
+	"file_exclude_patterns":
+	[
+		"*.tmLanguage.cache",
+		"*.tmPreferences.cache",
+		"*.psd",
+		"*.psb",
+		"*.png",
+		"*.gif",
+		"*.jpg",
+		"*.jpeg",
+		"Gemfile.lock",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.ico",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.pdf",
+		"*.class",
+		"*.mov",
+		"*.mp3",
+		"*.mp4",
+		"*.swf",
+		"*.xls",
+		"*.bak",
+		"*.backup",
+		"*.acorn",
+		"*.license",
+		"*.zargo*"
+	],
+	"folder_exclude_patterns":
+	[
+		".bundle",
+		".git",
+		".sass-cache",
+		"*.esproj",
+		"*.tiles"
+	],
+	"ignored_packages":
+	[
+		"Vintage",
+		"HTML5",
+		"SASS",
+		"PhpDoc"
+	],
+	"mouse_wheel_switches_tabs": false,
+	"theme": "Soda Dark.sublime-theme"
 }
