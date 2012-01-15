@@ -51,9 +51,10 @@
 	"ignored_packages":
 	[
 		"Vintage",
+		"PhpDoc",
 		"HTML5",
 		"SASS",
-		"PhpDoc"
+		"SublimeLinter"
 	],
 	"mouse_wheel_switches_tabs": false,
 	"theme": "Soda Dark.sublime-theme"

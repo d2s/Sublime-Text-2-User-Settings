@@ -1,5 +1,34 @@
 {
-	"auto_upgrade_last_run": 1316689694,
+	"auto_upgrade_last_run": 1326602258,
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"Alignment",
+		"CoffeeScript",
+		"CTags",
+		"Git",
+		"Goto Documentation",
+		"HTML5",
+		"JSDocs",
+		"JsFormat",
+		"Nodejs",
+		"Package Control",
+		"PhpDoc",
+		"Placeholders",
+		"Rake",
+		"SCSS",
+		"SFTP",
+		"sublime-csspecific",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeTODO",
+		"Terminal",
+		"ToggleQuotes",
+		"WordCount",
+		"WordHighlight",
+		"Wordpress",
+		"ZenCoding"
+	],
 	"repositories":
 	[
 		""
