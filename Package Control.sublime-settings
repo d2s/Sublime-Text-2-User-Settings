@@ -1,9 +1,11 @@
 {
-	"auto_upgrade_last_run": 1326602258,
+	"auto_upgrade_last_run": 1327238670,
 	"installed_packages":
 	[
 		"AAAPackageDev",
 		"Alignment",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
 		"CoffeeScript",
 		"CTags",
 		"Git",
@@ -11,6 +13,7 @@
 		"HTML5",
 		"JSDocs",
 		"JsFormat",
+		"Logs Colorize",
 		"Nodejs",
 		"Package Control",
 		"PhpDoc",

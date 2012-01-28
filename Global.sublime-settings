@@ -46,7 +46,8 @@
 		".git",
 		".sass-cache",
 		"*.esproj",
-		"*.tiles"
+		"*.tiles",
+		"*.svn"
 	],
 	"ignored_packages":
 	[
@@ -54,7 +55,8 @@
 		"PhpDoc",
 		"HTML5",
 		"SASS",
-		"SublimeLinter"
+		"SublimeLinter",
+		"Logs Colorize"
 	],
 	"mouse_wheel_switches_tabs": false,
 	"theme": "Soda Dark.sublime-theme"
