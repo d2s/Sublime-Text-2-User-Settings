@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1327238670,
+	"auto_upgrade_last_run": 1328039945,
 	"installed_packages":
 	[
 		"AAAPackageDev",
@@ -10,7 +10,6 @@
 		"CTags",
 		"Git",
 		"Goto Documentation",
-		"HTML5",
 		"JSDocs",
 		"JsFormat",
 		"Logs Colorize",

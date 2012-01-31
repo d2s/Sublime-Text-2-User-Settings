@@ -53,10 +53,11 @@
 	[
 		"Vintage",
 		"PhpDoc",
-		"HTML5",
 		"SASS",
 		"SublimeLinter",
-		"Logs Colorize"
+		"Logs Colorize",
+		".DS_Store",
+		"Wordpress"
 	],
 	"mouse_wheel_switches_tabs": false,
 	"theme": "Soda Dark.sublime-theme"
