@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1328930802,
+	"auto_upgrade_last_run": 1329343801,
 	"installed_packages":
 	[
 		"AAAPackageDev",
@@ -19,6 +19,7 @@
 		"Jasmine",
 		"JSDocs",
 		"JsFormat",
+		"LESS",
 		"Logs Colorize",
 		"Nettuts+ Fetch",
 		"nginx",
@@ -41,7 +42,8 @@
 		"WordCount",
 		"WordHighlight",
 		"Wordpress",
-		"ZenCoding"
+		"ZenCoding",
+		"Zurb Foundation Snippets"
 	],
 	"repositories":
 	[
