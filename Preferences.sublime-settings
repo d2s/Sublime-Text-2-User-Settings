@@ -66,13 +66,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"PhpDoc",
-		"SASS",
-		"SublimeLinter",
-		"Logs Colorize",
-		".DS_Store",
-		"Wordpress",
-		"WordHighlight"
+		"Wordpress"
 	],
 	"match_brackets_angle": true,
 	"mouse_wheel_switches_tabs": false,
