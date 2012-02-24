@@ -59,12 +59,12 @@ Read [Package Control][] page for details about how to install it and other poss
 - [SFTP][]
 - [AAAPackageDev][]
 - [Zencoding][]
-- [WordHighlight][]
 - [WordCount][]
 
 ### Code intelligence
 
 - [CTags][]
+- [SublimeClang][]
 - [SublimeCodeIntel][]
 - [SublimeLinter][]
 - [sublime-ToggleQuotes][]
@@ -111,7 +111,7 @@ Read [Package Control][] page for details about how to install it and other poss
 [SublimeLinter]: https://github.com/Kronuz/SublimeLinter "Inline lint highlighting for the Sublime Text 2 editor"
 [Rake]: https://github.com/SublimeText/Rake "Sublime Text 2 plugin for Ruby Rake"
 [CTags]: https://github.com/SublimeText/CTags "CTags support for Sublime Text 2"
-[HTML5]: https://github.com/mrmartineau/HTML5 "HTML5 bundle for Sublime Text 2"
+[SublimeClang]: https://github.com/quarnster/SublimeClang "C/C++/ObjC/ObjC++ autocompletions and code navigation"
 [SCSS]: https://github.com/kuroir/SCSS.tmbundle "The TextMate SCSS Official Bundle."
 [git plugin]: https://github.com/kemayo/sublime-text-2-git/wiki  "git plugin by David Lynch"
 [JSDocs]: https://github.com/spadgos/sublime-jsdocs "Makes writing JSDoc and PHPDoc comments easier."
