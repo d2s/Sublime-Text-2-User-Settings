@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1329949804,
+	"auto_upgrade_last_run": 1340045286,
 	"installed_packages":
 	[
 		"AAAPackageDev",
@@ -25,6 +25,7 @@
 		"nginx",
 		"Nodejs",
 		"Package Control",
+		"Pandoc (Markdown)",
 		"PHPUnit",
 		"Placeholders",
 		"Pretty JSON",
