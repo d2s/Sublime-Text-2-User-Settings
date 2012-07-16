@@ -12,5 +12,7 @@
   /* Set bookmark */
   { "keys": ["super+k"], "command": "set_mark" },
   /* Goto Documentation */
-  { "keys": ["super+shift+h"], "command": "goto_documentation" }
+  { "keys": ["super+shift+h"], "command": "goto_documentation" },
+  /* FormatSQL */
+  { "keys": ["super+k", "super+s"], "command": "format_sql" }
 ]
