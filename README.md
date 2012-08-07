@@ -19,6 +19,7 @@ It's probably better to make copy of these to another location and just copy the
 
 - [Sublime Text 2 (beta)](http://www.sublimetext.com/2)
 - [Package Control][]
+- [Ubuntu Mono Regular](http://font.ubuntu.com/#charset-mono-regular) font
 
 
 # Installation

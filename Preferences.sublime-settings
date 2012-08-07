@@ -55,7 +55,8 @@
 		"*.tiles",
 		"*.svn"
 	],
-	"font_face": "Consolas",
+	//"font_face": "Consolas",
+	"font_face": "Ubuntu Mono Regular",
 	"font_options":
 	[
 		"subpixel_antialias"
