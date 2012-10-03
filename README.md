@@ -17,7 +17,7 @@ It's probably better to make copy of these to another location and just copy the
 
 # Requirements:
 
-- [Sublime Text 2 (beta)](http://www.sublimetext.com/2)
+- [Sublime Text 2](http://www.sublimetext.com/)
 - [Package Control][]
 - [Ubuntu Mono Regular](http://font.ubuntu.com/#charset-mono-regular) font
 
@@ -128,6 +128,5 @@ Read [Package Control][] page for details about how to install it and other poss
 [Zencoding]: https://bitbucket.org/wbond/sublime-2-zencoding/src "Zen Coding support for Sublime Text 2"
 [WordHighlight]: https://github.com/SublimeText/WordHighlight "Highlight all copies of the currently selected word"
 [WordCount]: https://github.com/SublimeText/WordCount "Real time Word Counter"
-
 
 
