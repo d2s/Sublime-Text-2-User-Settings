@@ -147,8 +147,8 @@ Read [Package Control][] page for details about how to install it and other poss
 
 ### TeX
 
-LaTeX Track Changes
-LaTeXTools
+- LaTeX Track Changes
+- LaTeXTools
 
 
 ### Flash
