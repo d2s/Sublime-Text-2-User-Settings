@@ -34,70 +34,131 @@ Clone the settings repository using the command below:
 
     git clone https://github.com/d2s/Sublime-Text-2-User-Settings.git "User"
 
-Read [Package Control][] page for details about how to install it and other possible extensions via the system.
-
 
 ## Required extensions:
+
+Read [Package Control][] page for details about how to install it and other possible extensions via the system.
 
 ### Theme
 
 - [Soda Theme][]
-
-### General tools
-
-- [Goto Documentation][]
-
+- Theme - Soda
+- Tomorrow Color Schemes
 
 
 ## Suggested extensions:
 
-
 ### General tools
 
+- [Goto Documentation][]
 - [Alignment][]
 - [Terminal][]
-- [git plugin][]
-- [SFTP][]
 - [AAAPackageDev][]
-- [Zencoding][]
+- [ZenCoding][]
 - [WordCount][]
+- EditorConfig
+- Dotfiles Syntax Highlighting
+- AutoFileName
+- SublimeTODO
+
+
+### File Transfer
+
+- [SFTP][]
+
+
+### Version Control
+
+- [git plugin][]
+- Git
+- GitHub.app Menu
+- Gitignore
+
 
 ### Code intelligence
 
 - [CTags][]
+- CTags for PHP
 - [SublimeClang][]
 - [SublimeCodeIntel][]
 - [SublimeLinter][]
 - [sublime-ToggleQuotes][]
 
+
 ### Project management
 
 - [SublimeTODO][]
 
+
 ### HTML
 
-- [HTML5][]
 - [Placeholders][]
+
 
 ### CSS
 
 - [SCSS][]
 - [sublime-csspecific][]
+- LESS
+
 
 ### JavaScript
 
+- Backbone.js
+- [CoffeeScript][]
 - [JSDocs][]
 - [JsFormat][]
 - [SublimeText-Nodejs][]
-- [CoffeeScript][]
+- Nodejs
+- Pretty JSON
+- Jasmine
+- jQuery
+- JsFormat
+
+
 
 ### Ruby
 
 - [Rake][]
+- RSpec
+- Cucumber
+- Guard
+- Haml
+
+
 
 ### PHP
 
 - [sublime-text-2-wordpress][]
+- Wordpress
+
+
+### Databases
+
+- Format SQL
+
+
+
+### Server Configs
+
+- ApacheConf.tmLanguage
+- nginx
+
+
+### TeX
+
+LaTeX Track Changes
+LaTeXTools
+
+
+### Flash
+
+- ActionScript 3
+
+
+### Java
+
+- SublimeJava
 
 
 
@@ -125,8 +186,7 @@ Read [Package Control][] page for details about how to install it and other poss
 [sublime-text-2-wordpress]: https://github.com/purplefish32/sublime-text-2-wordpress "WordPress package for Sublime Text 2"
 [Goto Documentation]: https://github.com/kemayo/sublime-text-2-goto-documentation "Sublime Text 2 plugin to go to documentation"
 [Placeholders]: https://github.com/mrmartineau/Placeholders "Placeholder HTML & content (lorem ipsum) package for Sublime Text 2"
-[Zencoding]: https://bitbucket.org/wbond/sublime-2-zencoding/src "Zen Coding support for Sublime Text 2"
+[ZenCoding]: https://bitbucket.org/wbond/sublime-2-zencoding/src "Zen Coding support for Sublime Text 2"
 [WordHighlight]: https://github.com/SublimeText/WordHighlight "Highlight all copies of the currently selected word"
 [WordCount]: https://github.com/SublimeText/WordCount "Real time Word Counter"
-
 
