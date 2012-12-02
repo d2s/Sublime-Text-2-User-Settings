@@ -54,7 +54,7 @@ Read [Package Control][] page for details about how to install it and other poss
 - [Alignment][]
 - [Terminal][]
 - [AAAPackageDev][]
-- [ZenCoding][]
+- [Emmet][]
 - [WordCount][]
 - EditorConfig
 - Dotfiles Syntax Highlighting
@@ -186,7 +186,7 @@ Read [Package Control][] page for details about how to install it and other poss
 [sublime-text-2-wordpress]: https://github.com/purplefish32/sublime-text-2-wordpress "WordPress package for Sublime Text 2"
 [Goto Documentation]: https://github.com/kemayo/sublime-text-2-goto-documentation "Sublime Text 2 plugin to go to documentation"
 [Placeholders]: https://github.com/mrmartineau/Placeholders "Placeholder HTML & content (lorem ipsum) package for Sublime Text 2"
-[ZenCoding]: https://bitbucket.org/wbond/sublime-2-zencoding/src "Zen Coding support for Sublime Text 2"
+[Emmet]: http://docs.emmet.io/ "Emmet — the essential toolkit for web-developers"
 [WordHighlight]: https://github.com/SublimeText/WordHighlight "Highlight all copies of the currently selected word"
 [WordCount]: https://github.com/SublimeText/WordCount "Real time Word Counter"
 
