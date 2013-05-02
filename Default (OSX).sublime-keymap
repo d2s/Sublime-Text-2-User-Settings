@@ -14,5 +14,9 @@
   /* Goto Documentation */
   { "keys": ["super+shift+h"], "command": "goto_documentation" },
   /* FormatSQL */
-  { "keys": ["super+k", "super+s"], "command": "format_sql" }
+  { "keys": ["super+k", "super+s"], "command": "format_sql" },
+  /* SideBarEnhancements */
+  { "keys": ["ctrl+t"], "command": "side_bar_new_file2" },
+  { "keys": ["f2"], "command": "side_bar_rename" },
+  { "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" }
 ]
