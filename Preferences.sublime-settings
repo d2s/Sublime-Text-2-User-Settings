@@ -82,5 +82,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 0
 }
