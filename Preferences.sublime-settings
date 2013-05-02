@@ -60,7 +60,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 15.0,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":
@@ -82,5 +82,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
-	"wrap_width": 140
+	"wrap_width": 120
 }
