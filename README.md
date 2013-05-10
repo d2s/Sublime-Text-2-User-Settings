@@ -19,7 +19,12 @@ It's probably better to make copy of these to another location and just copy the
 
 - [Sublime Text 2](http://www.sublimetext.com/)
 - [Package Control][]
-- [Ubuntu Mono Regular](http://font.ubuntu.com/#charset-mono-regular) font
+- [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html) typeface
+
+
+# Optional:
+
+There is also "[Source Sans Pro](http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html)" typeface that could be used with non-code writing. Could try to use that in plain text or Markdown files.
 
 
 # Installation
