@@ -7,12 +7,14 @@ Originally customized for myself ([d2s][]).
 Your mileage may vary.
 
 
+![Screenshot of editor](http://autiomaa.galleria.fi/kuvat/2013/screenshots/SublimeText/Screen%20Shot%202013-05-10%20at%209.33.21%20PM.png/_full.jpg)
+
+
 # WARNING!
 
 I keep modifying these more or less daily so things might get broken.
 Don't blame me if that happends.
 It's probably better to make copy of these to another location and just copy the parts you find most useful.
-
 
 
 # Requirements:
