@@ -55,12 +55,12 @@
 		"*.tiles",
 		"*.svn"
 	],
-	"font_face": "Ubuntu Mono Regular",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15.0,
+	"font_size": 14.0,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":
