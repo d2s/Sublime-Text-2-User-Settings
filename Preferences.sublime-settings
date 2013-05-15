@@ -38,6 +38,8 @@
 		"*.pyo",
 		"*.sdf",
 		"*.so",
+		"*.sublime-project",
+		"*.sublime-workspace",
 		"*.suo",
 		"*.swf",
 		"*.tmLanguage.cache",
@@ -81,13 +83,13 @@
 		"Wordpress",
 		"Nodejs"
 	],
-	"save_on_focus_lost": true,
 	"match_brackets_angle": true,
 	"mouse_wheel_switches_tabs": false,
 	"rulers":
 	[
 		120
 	],
+	"save_on_focus_lost": true,
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
