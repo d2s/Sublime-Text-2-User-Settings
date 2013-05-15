@@ -2,7 +2,7 @@
 
 Settings for using Sublime Text 2 better.
 
-Originally customized for myself ([d2s][]).
+Originally customised for myself ([d2s][]).
 
 Your mileage may vary.
 
@@ -13,7 +13,7 @@ Your mileage may vary.
 # WARNING!
 
 I keep modifying these more or less daily so things might get broken.
-Don't blame me if that happends.
+Don't blame me if that happens.
 It's probably better to make copy of these to another location and just copy the parts you find most useful.
 
 
@@ -22,6 +22,7 @@ It's probably better to make copy of these to another location and just copy the
 - [Sublime Text 2](http://www.sublimetext.com/)
 - [Package Control][]
 - [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html) typeface
+- [Perv-ColorScheme](https://github.com/FlavourSys/Perv-ColorScheme) (via Package Control)
 
 
 # Optional:
