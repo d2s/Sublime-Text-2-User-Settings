@@ -7,7 +7,7 @@ Originally customised for myself ([d2s][]).
 Your mileage may vary.
 
 
-![Screenshot of editor](http://autiomaa.galleria.fi/kuvat/2013/screenshots/SublimeText/Screen%20Shot%202013-05-10%20at%209.33.21%20PM.png/_full.jpg)
+![Screenshot of editor](http://autiomaa.galleria.fi/kuvat/2013/screenshots/SublimeText/Screen%20Shot%202013-05-15%20at%205.47.26%20PM.png/_full.jpg)
 
 
 # WARNING!
