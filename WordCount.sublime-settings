@@ -1,0 +1,15 @@
+{
+  "enable_live_count": true,
+
+  "enable_readtime": false,
+  "readtime_wpm": 200,
+
+  "enable_line_word_count": false,
+  "enable_line_char_count": false,
+
+  "enable_count_chars": false,
+  "enable_count_lines": true,
+
+  "whitelist_syntaxes": [],
+  "blacklist_syntaxes": ["CSS","SQL"]
+}
