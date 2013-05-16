@@ -4,6 +4,7 @@
 	"color_scheme": "Packages/Perv - Color Scheme/Perv Orange.tmTheme",
 	"draw_minimap_border": false,
 	"draw_white_space": "all",
+	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Western (Windows 1252)",
 	"file_exclude_patterns":
