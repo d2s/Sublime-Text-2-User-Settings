@@ -1,0 +1,28 @@
+{
+  // Custom path to git binary when not in PATH
+  "git_binary": "",
+
+  // Live mode evaluates changes every time file is modified,
+  // Set false to disable evaluation after each input
+  "live_mode": true,
+
+  // Focus Change mode evaluates changes every time a view gets the focus
+  // Set false to disable evaluation when changing views
+  "focus_change_mode": true,
+
+  // When set to true GitGutter runs asynchronously in a seperate thread
+  // This may cause a small delay between a modification and the icon change
+  // but can increase performance greatly if needed.
+  "non_blocking": true,
+
+  // Determines whether GitGutter ignores whitespace in modified files.
+  // Set "none" to ensure whitespace is considered in the diff
+  // Set "all" to ignore all white space
+  // Set "eol" to only ignore whitespace at the end of lines
+  "ignore_whitespace": "none",
+
+  // Add --patience switch to git diff command. See
+  // http://bramcohen.livejournal.com/73318.html for
+  // an example of why you might need this.
+  "patience": true
+}
