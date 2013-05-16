@@ -16,6 +16,7 @@
 		"*.class",
 		"*.dll",
 		"*.dylib",
+		"*.docx",
 		"*.exe",
 		"*.gif",
 		"*.ico",
