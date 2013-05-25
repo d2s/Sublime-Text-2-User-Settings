@@ -1,0 +1,14 @@
+/*
+ * see http://w3c.github.com/tidy-html5/quickref.html for options
+ */
+{
+  "TidyHTML":{
+    "options":[
+      {"indent":"yes"}
+      ,{"indent-spaces":"4"}
+      ,{"wrap":"0"}
+      ,{"doctype":"html5"}
+    ],
+    "filetypes":[".html",".htm"]
+  }
+}
