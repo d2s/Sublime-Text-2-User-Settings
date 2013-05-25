@@ -83,7 +83,8 @@
 	[
 		"Vintage",
 		"Wordpress",
-		"Nodejs"
+		"Nodejs",
+		"HtmlTidy"
 	],
 	"match_brackets_angle": true,
 	"mouse_wheel_switches_tabs": false,
