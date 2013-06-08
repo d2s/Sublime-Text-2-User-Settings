@@ -82,9 +82,10 @@
 	"ignored_packages":
 	[
 		"Vintage",
+		"HtmlTidy",
+		"Syntax Highlighting for Sass",
 		"Wordpress",
-		"Nodejs",
-		"HtmlTidy"
+		"Nodejs"
 	],
 	"match_brackets_angle": true,
 	"mouse_wheel_switches_tabs": false,
@@ -93,6 +94,7 @@
 		120
 	],
 	"save_on_focus_lost": true,
+	"scroll_past_end": true,
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
