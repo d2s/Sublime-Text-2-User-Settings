@@ -52,7 +52,8 @@
 		".gitkeep",
 		".rake_tasks~",
 		"dump.rdb",
-		"Gemfile.lock"
+		"Gemfile.lock",
+		"*.~lock.*"
 	],
 	"folder_exclude_patterns":
 	[
