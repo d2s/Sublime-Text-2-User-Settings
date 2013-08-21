@@ -88,7 +88,9 @@
 		"Vintage",
 		"iTodo",
 		"HtmlTidy",
-		"Wordpress"
+		"Wordpress",
+		"SublimeREPL",
+		"AngularJS"
 	],
 	"match_brackets_angle": true,
 	"mouse_wheel_switches_tabs": false,
