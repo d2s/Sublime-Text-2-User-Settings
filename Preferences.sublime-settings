@@ -1,4 +1,5 @@
 {
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"bold_folder_labels": true,
 	"caret_style": "smooth",
 	"color_scheme": "Packages/Perv - Color Scheme/Perv Orange.tmTheme",
